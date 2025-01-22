@@ -1,2 +1,2 @@
 # UTM_coordinate_marker
- Marker with utm coordinates
+Marcador com coordenadas utm e geográficas
